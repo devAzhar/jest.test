@@ -1,0 +1,12 @@
+{
+  "esversion": 6,
+  "scripts": {
+    "test": "tsc && jest ./dist/tests/*.test.js"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.8.3",
+    "@types/jest": "^24.9.0",
+    "@types/node": "^13.1.8",
+    "jest": "^24.9.0"
+  }
+}
